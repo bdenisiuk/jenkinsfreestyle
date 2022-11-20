@@ -1,2 +1,2 @@
 # jenkinsfreestyle 2
-y
+u
